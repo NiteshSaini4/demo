@@ -22,7 +22,7 @@ public class LoginClass
 		username.sendKeys("standard_user");//actions
 		
 		
-		WebElement password=driver.findElement(By.id("password"));
+		WebElement password=driver.findElement(By.id("password1233"));
 		
 		password.sendKeys("secret_sauce");
 		
